@@ -126,7 +126,7 @@ We are continuously innovating to provide the best infrastructure for autonomous
 
 - **Token Launch**
 
-  - Initial launch of the Urchin Token ($URCHIN) through the PumpFun event.
+  - The initial launch of the Urchin Token ($URCHIN) through the CLANKER platform.
   - Features include token distribution, staking rewards, and immediate integration with Civitas for transactions and governance.
 
 - **Civitas Explorer**
